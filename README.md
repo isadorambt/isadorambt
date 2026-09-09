@@ -52,7 +52,7 @@
 
 ### 🏆 Conquistas
 
-<img src="https://github-profile-trophy.vercel.app/?username=isadorambt&theme=algolia&no-frame=true&row=1&column=6" alt="trophies" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=isadorambt&theme=algolia" alt="trophies" />
 
 </div>
 
