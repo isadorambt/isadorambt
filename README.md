@@ -15,7 +15,7 @@
 ### 👩‍💻 Sobre mim
 
 - 🌱 Estou dando meus primeiros passos na programação
-- 🎯 Meu objetivo é aprender a **automatizar tarefas** com scripts e dentre outros mil assuntos
+- 🎯 Meu objetivo é aprender a **automatizar tarefas** com scripts
 - 🐍 Começando pelo **Python**, por ser ótimo para automação
 - 💬 Peça-me sobre: organização, aprendizado e curiosidades tech
 - ⚡ Fun fact: cada linha de código é um pequeno experimento!
@@ -43,6 +43,16 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadorambt&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=isadorambt&theme=tokyonight&hide_border=true" alt="streak stats"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🏆 Conquistas
+
+<img src="https://github-profile-trophy.vercel.app/?username=isadorambt&theme=algolia&no-frame=true&row=1&column=6" alt="trophies" />
 
 </div>
 
