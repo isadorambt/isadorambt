@@ -1,77 +1,99 @@
+# Hi there! 👋 I'm Isadora Marques
+
+**Full-Stack Developer | Data Analyst | LegalTech Enthusiast**
+
+Welcome to my GitHub! I'm passionate about building solutions that combine **law, finance, and technology** to solve real-world problems.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Background in **Law & Technology**
+- 💻 Specializing in **Python, SQL, Data Analysis & Web Development**
+- 🔍 Interested in **LegalTech, FinTech & Automation**
+- 🌱 Continuously learning and building innovative projects
+- 🎯 Open to collaborations and new challenges
+
+---
+
+## 💡 Featured Projects
+
+### 📊 [Personal Expense Analyzer](https://github.com/isadorambt/Analisador-de-Gastos-Pessoais)
+A powerful expense tracking application built with **SQL, Pandas & Jupyter Notebook**
+- 🔧 Advanced window functions for subscription detection
+- 📈 Interactive SQL playground with WebAssembly
+- 🚀 Live GitHub Pages dashboard
+- ⭐ Topics: Data Analysis, SQL, SQLite, Personal Finance, CI/CD
+
+### ⚖️ [Legal Deadline Radar](https://github.com/isadorambt/-Radar-de-Prazos-Jur-dicos-automatizador-de-prazos-processuais)
+Automated legal deadline tracker - Your personal assistant for process management
+- 🎯 Automated deadline monitoring
+- 📌 Process-specific deadline management
+- 🔔 Smart notifications system
+- Built with **Python**
+
+### 🎨 [Portfolio Website](https://github.com/isadorambt/Portfolio---Isadora)
+Professional portfolio showcasing projects at the intersection of Law, Innovation & Technology
+- Responsive design with **HTML/CSS**
+- Highlights LegalTech expertise
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**
+- ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+
+**Data & Analytics:**
+- Pandas, NumPy
+- Window Functions & Complex Queries
+- Data Visualization
+
+**Tools & Platforms:**
+- GitHub & Git
+- GitHub Actions (CI/CD)
+- Jupyter Notebook
+- WebAssembly
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Isadora%20Barreto&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Explorando%20o%20mundo%20da%20programa%C3%A7%C3%A3o%20%F0%9F%9A%80&descAlignY=55&descSize=18"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isadorambt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+a+Isadora!;Aprendendo+a+programar+%F0%9F%92%BB;Automatizando+tarefas+com+c%C3%B3digo+%E2%9A%99%EF%B8%8F;Sempre+curiosa%2C+sempre+aprendendo+%F0%9F%8C%B1" alt="Typing SVG" />
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isadorambt&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
-<br>
+---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/mikechambers/mikechambers/main/computer.gif">
+## 🔗 Let's Connect!
 
-### 👩‍💻 Sobre mim
+- 💼 [Portfolio](https://isadorambt.github.io/Analisador-de-Gastos-Pessoais/)
+- 📧 Open to opportunities and collaborations
+- 🤝 Ask me about Python, Data Analysis, LegalTech, or FinTech
 
-- 🌱 Estou dando meus primeiros passos na programação
-- 🎯 Meu objetivo é aprender a **automatizar tarefas** com scripts
-- 🐍 Começando pelo **Python**, por ser ótimo para automação
-- 💬 Peça-me sobre: organização, aprendizado e curiosidades tech
-- ⚡ Fun fact: cada linha de código é um pequeno experimento!
+---
 
-<br clear="both">
+## 🌟 Fun Facts
 
-<div align="center">
+- ⚖️ Combining legal expertise with cutting-edge technology
+- 🎯 Passionate about automation and efficiency
+- 📚 Always learning new technologies and methodologies
+- 🚀 Building solutions that matter
 
-### 🛠️ Tecnologias & Ferramentas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-<br>
+---
 
 <div align="center">
 
-### 📊 Estatísticas
+**Let's build something amazing together!** 🚀
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=isadorambt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadorambt&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=isadorambt&theme=tokyonight&hide_border=true" alt="streak stats"/>
+Feel free to explore my repositories and don't hesitate to reach out!
 
 </div>
-
-<br>
-
-<div align="center">
-
-### 🏆 Conquistas
-
-<img src="https://github-profile-trophy-winning.vercel.app/?username=isadorambt&theme=algolia" alt="trophies" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🌐 Vamos nos conectar
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:SEU-EMAIL-AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/SEU-INSTAGRAM-AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
